@@ -1,0 +1,2 @@
+# Classification-using-Logistic-Regression
+In this project I have created a logistic regression classification model using python and R.A logistic regression model is used when the dependent variable is a categorical variable.The data is splitted into training and testing data.After fitting the model on the training data I have predicted the values on test data.Finally the accuracy is calculted by using confusion matrix.
